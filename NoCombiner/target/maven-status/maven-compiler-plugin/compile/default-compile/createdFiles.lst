@@ -1,0 +1,4 @@
+noCombiner/MinMaxNoCombiner.class
+noCombiner/MinMaxNoCombiner$MinMaxReducer.class
+noCombiner/MinMaxNoCombiner$MeanTemperatureMapper.class
+noCombiner/WeatherTempWritable.class
