@@ -1,0 +1,5 @@
+withcombiner/MinMaxWithCombiner$TemperatureCombiner.class
+withcombiner/MinMaxWithCombiner.class
+withcombiner/MinMaxWithCombiner$MinMaxMapper.class
+withcombiner/MinMaxWithCombiner$MinMaxReducer.class
+withcombiner/WeatherTempWritable.class
